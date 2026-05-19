@@ -201,8 +201,3 @@ Potential future enhancements:
 * Kubernetes deployment,
 * cloud deployment (Azure/AWS/GCP),
 * advanced fraud scoring models.
-
-
-# Project Type
-
-Real-Time Analytics | Data Engineering | Business Intelligence | Streaming Architecture | Fraud Detection
